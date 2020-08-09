@@ -1,1 +1,1 @@
-{"mapItemId":302234,"mapItemIdMin":300001,"mapItemIdMax":350000}
+{"mapItemId":302304,"mapItemIdMin":300001,"mapItemIdMax":350000}
